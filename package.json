@@ -96,7 +96,7 @@
     "parallel-webpack": "^2.3.0",
     "prettier": "1.16.0",
     "request": "^2.72.0",
-    "rimraf": "^2.5.2",
+    "rimraf": "^2.6.3",
     "sass-loader": "^7.0.1",
     "semver": "^5.5.0",
     "spectron": "5.0.0",
