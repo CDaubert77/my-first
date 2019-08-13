@@ -344,12 +344,11 @@
     "@types/react" "*"
     "@types/react-addons-css-transition-group" "*"
 
-"@types/react-dom@^16.0.5":
-  version "16.0.6"
-  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.0.6.tgz#f1a65a4e7be8ed5d123f8b3b9eacc913e35a1a3c"
-  integrity sha512-M+1zmwa5KxUpkCuxA4whlDJKYTGNvNQW4pIoCLH16xGbClicD9CzPry4y94kTjCCk/bJZCZ/GVqUsP7eKcO/mQ==
+"@types/react-dom@^16.8.5":
+  version "16.8.5"
+  resolved "https://registry.yarnpkg.com/@types/react-dom/-/react-dom-16.8.5.tgz#3e3f4d99199391a7fb40aa3a155c8dd99b899cbd"
+  integrity sha512-idCEjROZ2cqh29+trmTmZhsBAUNQuYrF92JHKzZ5+aiFM1mlSk3bb23CK7HhYuOY75Apgap5y2jTyHzaM2AJGA==
   dependencies:
-    "@types/node" "*"
     "@types/react" "*"
 
 "@types/react-transition-group@1.1.1":
@@ -10189,7 +10188,7 @@ whatwg-encoding@^1.0.1, whatwg-encoding@^1.0.3:
 
 whatwg-fetch@^0.11.1:
   version "0.11.1"
-  resolved "http://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-0.11.1.tgz#6d3ded245fdd97cd728e0e2587b54b733949e663"
+  resolved "https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-0.11.1.tgz#6d3ded245fdd97cd728e0e2587b54b733949e663"
   integrity sha1-bT3tJF/dl81yjg4lh7VLczlJ5mM=
 
 whatwg-mimetype@^2.1.0:
