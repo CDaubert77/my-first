@@ -1,0 +1,25 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: "@types/codemirror"
+    versions:
+    - 0.0.106
+    - 0.0.108
+  - dependency-name: "@types/react-dom"
+    versions:
+    - 17.0.0
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
+  - dependency-name: fs-extra
+    versions:
+    - 9.0.1
+  - dependency-name: handlebars
+    versions:
+    - 4.7.6
